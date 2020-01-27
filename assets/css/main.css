@@ -3363,6 +3363,22 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+		.inner h1{
+			color: #77ab3c;
+			text-shadow: -1px -1px 0 #fff,
+			1px -1px 0 #fff,
+			-1px 1px 0 #fff,
+			1px 1px 0 #fff;
+		}
+
+		.inner p{
+			color: #77ab3c;
+			text-shadow: -1px -1px 0 #fff,
+			1px -1px 0 #fff,
+			-1px 1px 0 #fff,
+			1px 1px 0 #fff;
+		}
+
 /* Header */
 
 	#header {

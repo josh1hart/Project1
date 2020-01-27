@@ -3240,7 +3240,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #77ab3c;
+			background-color: #77ab3c/*#a9e366*/;
 		}
 
 		.wrapper.style1-alt {
@@ -3777,14 +3777,14 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #edad2d;
+				background: #de5945;
 			}
 
-			#sidebar nav a:after { /*5052b5*/
-				background-image: -moz-linear-gradient(to right, #5052b5, #5052b5);
-				background-image: -webkit-linear-gradient(to right, #5052b5, #5052b5);
-				background-image: -ms-linear-gradient(to right, #5052b5, #5052b5);
-				background-image: linear-gradient(to right, #5052b5, #5052b5);
+			#sidebar nav a:after {
+				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: linear-gradient(to right, #5e42a6, #b74e91);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3890,7 +3890,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("../../images/bg01.jpg");
+		background-image: url("images/intro.svg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
